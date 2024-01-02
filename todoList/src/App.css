@@ -25,3 +25,6 @@ input{
 .row{
   margin-bottom: 20px;
 }
+.btn{
+  min-width: 100px;
+}
