@@ -1,3 +1,19 @@
 *{
-  background-color: gray;
+  background-color: black;
+  color: white;
+}
+
+.list-group-item{
+  background-color: pink;
+}
+.my-itmes{
+  /* color: red; */
+  font-weight: bold;
+  background-color: red;
+ 
+}
+
+.foodHeading{
+background-color: silver;
+color:brown;
 }
